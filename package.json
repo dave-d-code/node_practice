@@ -1,0 +1,22 @@
+{
+  "name": "@dave_d_code/nodedir",
+  "version": "1.0.0",
+  "description": "this is a first npm node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dave-d-code/node_practice.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "David Dorr",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dave-d-code/node_practice/issues"
+  },
+  "homepage": "https://github.com/dave-d-code/node_practice#readme"
+}
