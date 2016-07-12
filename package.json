@@ -4,7 +4,7 @@
   "description": "this is a first npm node project",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/dave-d-code/node_practice/issues"
   },
-  "homepage": "https://github.com/dave-d-code/node_practice#readme"
+  "homepage": "https://github.com/dave-d-code/node_practice#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
